@@ -3,7 +3,7 @@
 This is a package that computes the pi number using various approaches.
 The codes are implimented by <ins>Muhammad Hammad</ins> and <ins>Sharareh Sayyad</ins>.
 
-## Summary of what we have now: 
+## Summary: 
 To run all tests, use `sh script_test_piapprox.sh` or make the bash script executable using `chmod+x script_test_piapprox.sh`
 To run all implimentations, use `sh create_modules.sh`
 
