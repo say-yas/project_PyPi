@@ -1,4 +1,4 @@
-# ProjectPi24_Hammad_Sayyad
+# PyPi
 
 This is a package that computes the pi number using various approaches.
 The codes are implimented by <ins>Muhammad Hammad</ins> and <ins>Sharareh Sayyad</ins>.
