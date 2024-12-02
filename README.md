@@ -1,17 +1,17 @@
 # PyPi
 
 This is a package that computes the pi number using various approaches.
-The codes are implimented by <ins>Muhammad Hammad</ins> and <ins>Sharareh Sayyad</ins>.
+The codes are implemented by <ins>Muhammad Hammad</ins> and <ins>Sharareh Sayyad</ins>.
 
 ## Collection of results: 
 To run all tests, use `sh script_test_piapprox.sh` or make the bash script executable using `chmod+x script_test_piapprox.sh`
-To run all implimentations, use `sh create_modules.sh`
+To run all implementations, use `sh create_modules.sh`
 
 Demonstration of the methods and analyzing their performance is presented in a [Jupyter notebook](examples/Demostration_pi_approximations.ipynb) in the `example` directory.
 
 ## Collection of algorithms for estimating the pi number
 
-Our methods for evaluating $\pi$ benefit from using `polygons`, `Monte Carlo algorithm`, `continued-fraction approach`, `Ramanujan's formula`, `Leibniz formula`, `Chudnovsky formula`, `Bailey–Borwein–Plouffe formula (BBP) fromula`, `Gauss-Legendre algorithm` and `Nilakantha series`. One can find the implimentation in [PIapprox](PIapprox/) directory.
+Our methods for evaluating $\pi$ benefit from using `polygons`, `Monte Carlo algorithm`, `the continued-fraction approach`, `Ramanujan's formula`, `Leibniz formula`, `Chudnovsky formula`, `Bailey–Borwein–Plouffe formula (BBP) fromula`, `Gauss-Legendre algorithm` and `Nilakantha series`. The implementation is in [PIapprox](PIapprox/) directory.
 
 ## Project contains:
 
@@ -46,7 +46,7 @@ Our methods for evaluating $\pi$ benefit from using `polygons`, `Monte Carlo alg
 
 
 ## Summary:
-In summary the project consists of the following components: 
+In summary, the project consists of the following components: 
 
 • Classes that approximate numbers,
 
