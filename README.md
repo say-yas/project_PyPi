@@ -48,11 +48,11 @@ Our methods for evaluating $\pi$ benefit from using `polygons`, `Monte Carlo alg
 ## Summary:
 In summary, the project consists of the following components: 
 
-• Classes that approximate numbers,
+• Classes that approximate numbers.
 
-• Methods that rely on these classes to approximate pi,
+• Methods that rely on these classes to approximate pi.
 
-• An automated test suite for[FloatNumber](test/test_unittest_floatnumber.py), [RationalNumber](test/test_unittest_rationalnumber.py) and [FixedPrecision](test/test_unittest_fixedpercision.py),
+• An automated test suite for[FloatNumber](test/test_unittest_floatnumber.py), [RationalNumber](test/test_unittest_rationalnumber.py) and [FixedPrecision](test/test_unittest_fixedpercision.py).
 
 • A Jupyter notebook that explains the methods and the comparison.
 
